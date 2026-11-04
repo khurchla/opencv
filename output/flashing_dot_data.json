@@ -1,0 +1,74 @@
+[
+    {
+        "dot_start_timestamp": 18.0,
+        "relative_left": 18.44,
+        "relative_top": 21.02,
+        "relative_width": 5.26,
+        "relative_height": 9.63,
+        "dot_end_timestamp": 20.3
+    },
+    {
+        "dot_start_timestamp": 26.6,
+        "relative_left": 25.57,
+        "relative_top": 13.61,
+        "relative_width": 3.7,
+        "relative_height": 6.76,
+        "dot_end_timestamp": 39.766666666666666
+    },
+    {
+        "dot_start_timestamp": 39.766666666666666,
+        "relative_left": 70.05,
+        "relative_top": 20.65,
+        "relative_width": 3.96,
+        "relative_height": 7.22,
+        "dot_end_timestamp": 53.800000000000004
+    },
+    {
+        "dot_start_timestamp": 53.800000000000004,
+        "relative_left": 69.53,
+        "relative_top": 22.5,
+        "relative_width": 4.01,
+        "relative_height": 7.13,
+        "dot_end_timestamp": 60.56666666666667
+    },
+    {
+        "dot_start_timestamp": 60.56666666666667,
+        "relative_left": 41.67,
+        "relative_top": 40.09,
+        "relative_width": 5.0,
+        "relative_height": 9.17,
+        "dot_end_timestamp": 67.46666666666667
+    },
+    {
+        "dot_start_timestamp": 67.46666666666667,
+        "relative_left": 68.39,
+        "relative_top": 61.57,
+        "relative_width": 3.59,
+        "relative_height": 6.85,
+        "dot_end_timestamp": 69.06666666666666
+    },
+    {
+        "dot_start_timestamp": 77.66666666666667,
+        "relative_left": 62.76,
+        "relative_top": 69.81,
+        "relative_width": 4.69,
+        "relative_height": 8.61,
+        "dot_end_timestamp": 82.26666666666667
+    },
+    {
+        "dot_start_timestamp": 82.26666666666667,
+        "relative_left": 62.97,
+        "relative_top": 64.63,
+        "relative_width": 3.8,
+        "relative_height": 6.85,
+        "dot_end_timestamp": 87.36666666666667
+    },
+    {
+        "dot_start_timestamp": 92.2,
+        "relative_left": 38.54,
+        "relative_top": 87.41,
+        "relative_width": 4.95,
+        "relative_height": 9.17,
+        "dot_end_timestamp": 93.86666666666667
+    }
+]
